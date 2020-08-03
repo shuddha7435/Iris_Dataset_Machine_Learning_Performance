@@ -7,3 +7,5 @@ I have compared the accuracy performance for these following algorithms in Pytho
     •	Decision Tree Classifier
     •	Gaussian Naive Bayes
     •	Support Vector Machine
+    
+# Then I have also implemented a linear regression algorithm for a dataset both in Python and Scikit-learn.
