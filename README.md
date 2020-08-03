@@ -1,6 +1,6 @@
-# Iris_Dataset_Machine_Learning_Performance
+# Here I have implemented different machine learning algorithms in Python.
 
-I have compared the accuracy performance for these following algorithms in Python.
+• I have compared the accuracy performance for these following algorithms in Python for Iris_Dataset.
     •	Logistic Regression
     •	Linear Discriminant Analysis
     •	KNN
@@ -8,5 +8,5 @@ I have compared the accuracy performance for these following algorithms in Pytho
     •	Gaussian Naive Bayes
     •	Support Vector Machine
    
-Then I have also implemented a linear regression algorithm for a dataset both in Python and Scikit-learn.
+• Then I have also implemented a linear regression algorithm for a dataset both in Python and Scikit-learn.
     
