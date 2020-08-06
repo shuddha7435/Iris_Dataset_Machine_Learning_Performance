@@ -10,4 +10,5 @@
    
 • Then I have also implemented a linear regression algorithm for a dataset both in Python and Scikit-learn.
 • I have implemented the logistic regression analysis for titanic data and find the accuracy for survived passenger.
+• Based on passenger's salary and age, I predicted whether they would buy the SUV Car or not.
     
